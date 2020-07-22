@@ -1,0 +1,2 @@
+# fastdict
+Python dict
