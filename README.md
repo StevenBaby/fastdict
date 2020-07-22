@@ -1,2 +1,2 @@
 # fastdict
-Python dict
+Python fastdict with attribute
